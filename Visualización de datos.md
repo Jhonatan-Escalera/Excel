@@ -4,4 +4,4 @@ Es un gráfico bidimensional de tres o más variables cuantitativas representada
 
 Se pueden observar las formas de las diferentes observaciones y las diferencias entre las magnitudes para cada variable.
 
-[![Ejemplo](https://raw.githubusercontent.com/scidatmath2020/Python-y-R-en-Estadistica-Multivariante/c906e555849b563a51bfd5bbbbf2662190cff12d/Mod1_Espacios_Multivariantes/coordenadas3.png)
+![Ejemplo](https://raw.githubusercontent.com/scidatmath2020/Python-y-R-en-Estadistica-Multivariante/c906e555849b563a51bfd5bbbbf2662190cff12d/Mod1_Espacios_Multivariantes/coordenadas3.png)
